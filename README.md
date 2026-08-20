@@ -41,3 +41,4 @@ The goal of this project is to demonstrate how AI agents and LLMs can be used to
 
 **Rabiul Islam**
 AI/ML | Data Science | NLP | Computer Vision | AI Agents
+ Main project : https://colab.research.google.com/drive/1a19fEJJ1p1hfyRbNvSMDlu6oyUykHHAp#scrollTo=tMrm1kuGRz9p
